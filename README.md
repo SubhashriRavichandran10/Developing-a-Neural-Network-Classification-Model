@@ -11,7 +11,9 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
-Include the neural network model diagram.
+
+<img width="731" height="795" alt="image" src="https://github.com/user-attachments/assets/cf33d840-aa86-40b6-bb70-5d2362601778" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
